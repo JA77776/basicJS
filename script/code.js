@@ -1,4 +1,4 @@
-let firstname = 'Jayd-donn'
+let firstname = 'Jay-donn'
 console.log("My name is Jay-donn" + firstname)
 console.log(firstname + "have 1 sister and 4 brothers")
 
